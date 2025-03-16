@@ -26,8 +26,10 @@ Ensure you have the following installed:
    ```sh
    autoit3 NotepadAutomation.au3
    ```
-   OR run the compiled `.exe` file (if available):
+   OR run the compiled `.exe` file:
    ```sh
-   ./NotepadAutomation.exe
+   NotepadAutomation.exe
    ```
-
+   
+## Project Demo
+[Download the demo](https://github.com/jawad-sqa/AutoIt-Notepad-Automation/blob/main/Project_Demo_Video.mp4)
